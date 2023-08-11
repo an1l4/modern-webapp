@@ -1,0 +1,10 @@
+Download Go - https://go.dev/dl/
+Download VS code - https://code.visualstudio.com/Download
+$ go version
+install go extension
+(vs code)ctrl+shift+p type GO:install/Update Tools then select all press ok
+
+useful resources
+------------------
+The Go standard library documentation  - https://pkg.go.dev/std
+GoDoc a great place to find open source packages - https://pkg.go.dev/
